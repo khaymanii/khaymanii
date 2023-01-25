@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ken
-- 🌱 I’m currently a fullstack(MERN) developer
+- 🌱 I’m currently a Web and App developer
 - 💞️ I’m looking to collaborate on this platform with other software developers ...
 - 📫 How to reach me kennethakpo61@gmail.com
 
