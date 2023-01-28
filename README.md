@@ -19,7 +19,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Materializecss](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=materializecss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![ReactNative](https://img.shields.io/badge/-React-Native-333333?style=flat&logo=reactnative)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
