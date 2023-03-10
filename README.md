@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤔   Exploring new technologies and developing software solutions and quick hacks.<br>🌱   Learning more about Web Development and App Development.<br>✍️   Pursuing Graphic Design and Blog Writing as hobbies.
+🤔   Exploring new technologies and developing software solutions and quick hacks.<br>🌱   Learning more about Web Development and App Development, also an Artificial Intellegence/Machine Learning Engineer.<br>✍️   Pursuing Graphic Design and Blog Writing as hobbies.
 
 
 ## 🌐 Socials:
