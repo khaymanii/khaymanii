@@ -1,10 +1,10 @@
-# 💫 About Me: I'm Kenneth Akpo a.k.a coderOfpH
+# 💫 About Me: I'm Kenneth Akpo a.k.a CoderOfpH
 
 🤔 I'm Exploring new technologies and developing software solutions and quick hacks.<br>🌱   I'm Learning more about Web and App Development, also an Artificial Intelligence/Machine Learning Engineer.<br>✍️   Pursuing Graphic Design and Technical/Blog Writing as hobbies.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-akpo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kenneth_akpo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-akpo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kenneth_akpo)[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@CoderOfpH)
 
 
 # 💻 Tech Stack:
