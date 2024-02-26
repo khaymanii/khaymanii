@@ -1,4 +1,4 @@
-# 💫 About Me: I'm Kenneth Akpo
+# 💫 About Me: I'm Ken
 
 🤔 I'm Exploring new technologies and developing software solutions and quick hacks.<br>🌱   I'm Learning more about Web and App Development, also an Artificial Intelligence/Machine Learning Engineer.<br>✍️   Pursuing Graphic Design and Technical/Blog Writing as hobbies.
 
