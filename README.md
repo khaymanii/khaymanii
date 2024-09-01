@@ -1,6 +1,6 @@
-# 💫 About Me: I'm Ken
+# 💫 About Me: I'm Ken. I'm a Jnr. Software Engineer.
 
-🤔 I'm Exploring new technologies and developing software solutions and quick hacks.<br>🌱   I'm Learning more about Web and App Development, also a Machine Learning Engineer.<br>✍️   Pursuing Graphic Design and Technical/Blog Writing as hobbies.
+🤔 I'm Exploring new technologies and developing software solutions and quick hacks.<br>🌱   I'm Learning more about Web3 and Blockchain Development, also a Machine Learning Engineer.<br>✍️   Pursuing Graphic Design and Technical/Blog Writing as hobbies.
 
 
 ## 🌐 Socials:
