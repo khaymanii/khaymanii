@@ -1,6 +1,6 @@
 # I'm Ken. I'm a Jnr. Software Engineer.
 
-🤔 I'm Exploring new technologies and developing software solutions and quick hacks as a web and app developer.<br>🌱   I'm Learning more about Blockchain Development (web3).<br>✍️   Pursuing Graphic Design and Technical/Blog Writing as hobbies.
+🤔 I'm exploring new technologies and developing software solutions and quick hacks as a Web and App Developer.<br>🌱   I'm learning more about Blockchain Development (web3).<br>✍️   Pursuing Graphic Design and Technical/Blog Writing as hobbies.
 
 
 ## 🌐 Socials:
