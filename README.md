@@ -14,9 +14,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khaymanii&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaymanii&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Blog Post:
+## Blog Posts:
 1. [Innovation Plan for Topship tech startup](https://coderofph.hashnode.dev/innovation-plan-for-topship)
-2. [Fiver-Year Innovation Plan for Sylndr tech startup](https://coderofph.hashnode.dev/five-year-innovation-plan-for-sylndr)
+2. [Five-Year Innovation Plan for Sylndr tech startup](https://coderofph.hashnode.dev/five-year-innovation-plan-for-sylndr)
 3. [Innovation plan for SolarWorld Electric Tech](https://coderofph.hashnode.dev/innovation-plan-for-solarworld-electric-tech)
 4. [Eden Life Five Year Innovation Plan](https://coderofph.hashnode.dev/eden-life-five-year-innovation-plan)
 5. [Welo Health Innovation Plan](https://coderofph.hashnode.dev/welo-healths-innovation-plan)
