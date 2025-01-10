@@ -15,11 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaymanii&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Blog Posts:
-1. [Innovation Plan for Topship tech startup](https://coderofph.hashnode.dev/innovation-plan-for-topship)
-2. [Five-Year Innovation Plan for Sylndr tech startup](https://coderofph.hashnode.dev/five-year-innovation-plan-for-sylndr)
+1. [Innovation Plan for Topship Tech Startup](https://coderofph.hashnode.dev/innovation-plan-for-topship)
+2. [Five-Year Innovation Plan for Sylndr Tech Startup](https://coderofph.hashnode.dev/five-year-innovation-plan-for-sylndr)
 3. [Innovation plan for SolarWorld Electric Tech](https://coderofph.hashnode.dev/innovation-plan-for-solarworld-electric-tech)
-4. [Eden Life Five Year Innovation Plan](https://coderofph.hashnode.dev/eden-life-five-year-innovation-plan)
-5. [Welo Health Innovation Plan](https://coderofph.hashnode.dev/welo-healths-innovation-plan)
+4. [Eden Life Tech Startup Five Year Innovation Plan](https://coderofph.hashnode.dev/eden-life-five-year-innovation-plan)
+5. [Welo Health Tech Startup Innovation Plan](https://coderofph.hashnode.dev/welo-healths-innovation-plan)
 6. [Rabbit Tech Startup Innovation Plan](https://coderofph.hashnode.dev/rabbit-innovation-plan)
 7. [How NFTfi Tech Startup Can Boost Its Revenue and User Base With These New Features](https://coderofph.hashnode.dev/nftfi-how-nftfi-can-boost-its-revenue-and-user-base-with-these-new-features)
 
