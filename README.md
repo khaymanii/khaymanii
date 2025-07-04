@@ -1,6 +1,6 @@
 # I'm Ken. I'm a Software Engineer.
 
-🤔 I'm exploring new technologies and developing software solutions and quick hacks as a Web and App Developer.<br>🌱   I'm learning more about Artificial Intelligence and Blockchain Development.
+🤔 I'm exploring new technologies and developing software solutions and quick hacks as a Web and App Developer.<br>🌱   I'm learning more about DevOps and Cloud Computing.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-akpo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kenneth_akpo) [![Hashnode](https://img.shields.io/badge/Hashnode-%23007ACC.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@CoderOfpH)
