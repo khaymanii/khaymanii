@@ -1,6 +1,7 @@
 # I'm Ken.
 
-🤔 I'm exploring new technologies and developing software solutions and quick hacks as a Web and App Developer.<br>🌱   I'm learning more about DevOps and Cloud Computing.
+🤔 I'm a Frontend Engineer & DevOps Engineer building scalable web and mobile applications.
+<br>🌱 Interested in clean UI, cloud infrastructure, CI/CD, and production systems..
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-akpo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kenneth_akpo) [![Hashnode](https://img.shields.io/badge/Hashnode-%23007ACC.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@CoderOfpH)
