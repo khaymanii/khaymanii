@@ -1,4 +1,4 @@
-# I'm Ken. I'm a Software Engineer.
+# I'm Ken.
 
 🤔 I'm exploring new technologies and developing software solutions and quick hacks as a Web and App Developer.<br>🌱   I'm learning more about DevOps and Cloud Computing.
 
