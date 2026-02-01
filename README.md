@@ -40,12 +40,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaymanii&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Blog Posts
+- [Why Motion Is Building Super-Apps on WhatsApp — Not Mobile Apps](https://coderofph.hashnode.dev/why-motion-is-building-super-apps-on-whatsapp-not-mobile-apps)
 - [Building Yard, an AI_Powered Real Estate Assistant on Whatsapp](https://coderofph.hashnode.dev/building-yard-a-whatsapp-ai-real-estate-assistant-for-proptech)
 - [Innovation Plan for Blinks AI](https://coderofph.hashnode.dev/innovation-plan-for-blinks-ai)
 - [Innovation Plan for Tracker - Manager for Bluesky](https://coderofph.hashnode.dev/innovation-plan-for-tracker)
 - [Innovation Plan for Topship Tech Startup](https://coderofph.hashnode.dev/innovation-plan-for-topship)
 - [Five-Year Innovation Plan for Sylndr Tech Startup](https://coderofph.hashnode.dev/five-year-innovation-plan-for-sylndr)
 - [Innovation plan for SolarWorld Electric Tech](https://coderofph.hashnode.dev/innovation-plan-for-solarworld-electric-tech)
-- [Eden Life Tech Startup Five Year Innovation Plan](https://coderofph.hashnode.dev/eden-life-five-year-innovation-plan)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
