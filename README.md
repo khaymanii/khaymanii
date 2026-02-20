@@ -1,6 +1,6 @@
 # I'm Ken.
 
-🤔 I'm a Frontend Engineer & DevOps Engineer Building Scalable Web and Mobile Applications.
+🤔 I'm a Frontend Engineer & DevOps Engineer, Building Scalable Web and Mobile Applications.
 <br>🌱 Interested in Clean UI, Cloud Infrastructure, CI/CD, and Production Systems..
 
 ## 🌐 Socials:
