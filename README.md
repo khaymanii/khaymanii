@@ -1,14 +1,20 @@
 # I'm Ken.
 
-🤔 I'm a Frontend Engineer & DevOps Engineer, Building Scalable Web and Mobile Applications.
-<br>🌱 Interested in Clean UI, Cloud Infrastructure, CI/CD, and Production Systems..
+👋 I'm Ken.
+
+🚀 Building intelligent systems with AI, Cloud, and Software Engineering.
+
+🌱 Exploring Systems Engineering, Embedded Systems, and Distributed Systems.
+
+⚡ Passionate about scalable architecture, automation, and solving real-world problems.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-akpo) [![Hashnode](https://img.shields.io/badge/Hashnode-%23007ACC.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@CoderOfpH)
 
 ## 💻 Tech Stack:
 
-### 🧑‍💻 Frontend Web & App Development
+### 🧑‍💻 Web & App Development
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +27,7 @@
 
 ---
 
-### ⚙️ DevOps & Cloud
+### ⚙️ DevOps
 
 ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
