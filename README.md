@@ -2,7 +2,7 @@
 
 🚀 Building intelligent systems with AI, Cloud, and Software Engineering.
 
-🌱 Exploring Systems Engineering, Embedded Systems, and Distributed Systems.
+🌱 Exploring Computer Hardware Engineering, Systems Engineering, Embedded Systems, and Distributed Systems.
 
 ⚡ Passionate about scalable architecture, automation, and solving real-world problems.
 
