@@ -1,6 +1,4 @@
-# I'm Ken.
-
-👋 I'm Ken.
+# I'm Ken
 
 🚀 Building intelligent systems with AI, Cloud, and Software Engineering.
 
