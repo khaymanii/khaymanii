@@ -1,4 +1,6 @@
-# I'm Ken
+<img width="1983" height="793" alt="ChatGPT Image Jul 10, 2026, 09_41_47 PM" src="https://github.com/user-attachments/assets/e8387913-5997-4868-bc27-b9298ad199ba" />
+
+
 
 🚀 Building intelligent systems with AI, Cloud, and Software Engineering.
 
