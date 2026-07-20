@@ -1,14 +1,6 @@
 <img width="1983" height="793" alt="ChatGPT Image Jul 10, 2026, 09_41_47 PM" src="https://github.com/user-attachments/assets/e8387913-5997-4868-bc27-b9298ad199ba" />
 
 
-
-🚀 Building intelligent systems with AI, Cloud, and Software Engineering.
-
-🌱 Exploring Computer Hardware Engineering, Systems Engineering, Embedded Systems, and Distributed Systems.
-
-⚡ Passionate about scalable architecture, automation, and solving real-world problems.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenneth-akpo) [![Hashnode](https://img.shields.io/badge/Hashnode-%23007ACC.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@CoderOfpH)
 
